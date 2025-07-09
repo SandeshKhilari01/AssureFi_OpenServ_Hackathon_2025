@@ -1,9 +1,12 @@
 #  Assure-Fi — Making DeFi Safer on the Sei Network
 
+##  Demo Video
+
+Click the image below to watch our full demo on YouTube: 
 ![Assure-Fi Banner](https://img.shields.io/badge/Built%20for-Sei%20Hackathon-blue?style=for-the-badge)
 [![Watch Demo](https://img.youtube.com/vi/Ibjt17GlV9c/0.jpg)](https://youtu.be/Ibjt17GlV9c)
 
-> 🔗 **Live Demo**: [https://assure-fi.vercel.app](https://assure-fi.vercel.app)
+[https://assure-fi.vercel.app](https://assure-fi.vercel.app)
 
 ---
 
@@ -39,13 +42,6 @@ Assigns a transparent risk score based on real-time data and contract behavior.
 
 ### ✅ Sentiment Signal Analysis  
 Aggregates scam alerts from social platforms to detect trending threats.
-
----
-
-##  Demo Video
-
-Click the image below to watch our full demo on YouTube:  
-[![Watch Demo](https://img.youtube.com/vi/Ibjt17GlV9c/0.jpg)](https://youtu.be/Ibjt17GlV9c)
 
 ---
 
